@@ -1,1 +1,3 @@
 - 👋 Hi, I’m @Roman-Gala
+- IT Student at Cracow University of Technology
+- Looking for an internship
